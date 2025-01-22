@@ -71,10 +71,6 @@ The application will be available at `http://localhost:5000`
 - WebSocket server handles real-time agent updates
 - Automatic optimization of network usage
 
-## License
-
-Apache License, Version 2.0
-
 
 <h3 align="center">🌎 View Counter 🌎</h3>
 
