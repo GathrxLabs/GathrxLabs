@@ -11,6 +11,9 @@
 </div>
 
 ---
+## About
+
+Gathr Labs is building the first Cognitive Economic Agents (CEAs). Whereas existing autonomous agents are focused on novelty and entertainment, CEAs are tailored to revenue generation. In the near future, how much money you earn will depend on which AI agents you own, not which job you have. Building a revenue-generating Cognitive Economic Agents (CEA) on Gathr will provide your gateway into this future.
 
 ## Features
 
