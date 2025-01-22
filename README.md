@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="/media/GATHRBABNNER.png">
-  <img alt="gathr logo" src="/media/GATHRBANNER.png" width="80%" height="80%">
+  <source media="(prefers-color-scheme: light)" srcset="GATHRBABNNER.png">
+  <img alt="gathr logo" src="GATHRBANNER.png" width="80%" height="80%">
 </picture>
 
 </h3>
